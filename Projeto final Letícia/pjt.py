@@ -1,4 +1,3 @@
-
 alunos = []
 
 while True:
